@@ -12,6 +12,7 @@ function usually called by our neural network code.
 # Standard library
 import cPickle
 import gzip
+import os
 
 # Third-party libraries
 import numpy as np
